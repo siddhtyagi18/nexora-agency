@@ -1,0 +1,13 @@
+{
+  "name": "nexora-agency",
+  "version": "1.0.0",
+  "description": "MERN Stack Agency Landing Page",
+  "scripts": {
+    "dev": "cd client && npm run dev",
+    "build": "cd client && npm run build",
+    "start": "cd server && npm start"
+  },
+  "keywords": ["mern", "react", "node", "agency"],
+  "author": "",
+  "license": "MIT"
+}
