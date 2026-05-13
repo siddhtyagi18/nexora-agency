@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚀 Nexora Agency - MERN Stack Landing Page
 
 A modern, fully responsive, and animated landing page for a premier IT Services Agency built with the MERN Stack (MongoDB, Express, React, Node.js).
@@ -151,3 +152,7 @@ Contributions, issues, and feature requests are welcome!
 ---
 
 **Built with ❤️ using MERN Stack**
+=======
+# nexora-agency
+A premium futuristic MERN stack digital agency platform with modern UI/UX, smooth animations, responsive design, MongoDB integration, and full-stack functionality.
+>>>>>>> 8049a899806ac9b3d343e77e54efab08b42265bd
